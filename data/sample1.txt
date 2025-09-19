@@ -1,0 +1,2 @@
+LangChain is a framework for developing applications powered by large language models. It provides abstractions and utilities for prompt management, chains, agents, and integrations with data sources. In a Retrieval-Augmented Generation (RAG) system, LangChain helps orchestrate the retriever and the LLM to answer user questions using external knowledge.
+

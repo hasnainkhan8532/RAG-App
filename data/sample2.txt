@@ -1,0 +1,2 @@
+Chroma is an open-source embedding database (vector store) that makes it easy to persist and query embeddings. In a RAG pipeline, documents are chunked, embedded, and stored in Chroma. At query time, the retriever finds the most relevant chunks to provide context for the LLM, improving accuracy and grounding answers in your data.
+
