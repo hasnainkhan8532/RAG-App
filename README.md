@@ -72,7 +72,7 @@ python app.py --query "How does Chroma help in a RAG pipeline?"
 - You can adjust chunking params in `ingest.py` and retriever `k` in `app.py`.
 
 ### Demo
-![RAG Demo](./rag.png)
+![RAG Demo](./rng.png)
 
 Repository: [`hasnainkhan8532/RAG-App`](https://github.com/hasnainkhan8532/RAG-App.git)
 
